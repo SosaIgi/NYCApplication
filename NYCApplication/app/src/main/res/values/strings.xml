@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NYCHighSchools</string>
+    <string name="offline_snackbar_message">You Are Offline!</string>
+</resources>
